@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Εκτέλεση
 ```bash
-python Simple Sentiment.py
+python Simple Sentiment_v2-0-1
 ```
 
 ## Χρήση
@@ -59,7 +59,7 @@ python Simple Sentiment.py
 ## Δομή Φακέλων
 ```
 Project_App_Updated_Final/
-├── python Simple Sentiment.py # Κύριο αρχείο εφαρμογής
+├── python Simple Sentiment_v2-0-1 # Κύριο αρχείο εφαρμογής
 ├── requirements.txt          # Dependencies
 ├── README.md                # Οδηγίες χρήσης
 ├── data/                    # Αποθηκευμένα σχόλια
@@ -112,3 +112,4 @@ Project_App_Updated_Final/
 ## Έκδοση
 
 v1.0 - Αρχική έκδοση 
+
