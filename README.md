@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Εκτέλεση
 ```bash
-python Xatzoulis_app.py
+python Simple Sentiment.py
 ```
 
 ## Χρήση
@@ -59,7 +59,7 @@ python Xatzoulis_app.py
 ## Δομή Φακέλων
 ```
 Project_App_Updated_Final/
-├── Xatzoulis_app.py          # Κύριο αρχείο εφαρμογής
+├── python Simple Sentiment.py # Κύριο αρχείο εφαρμογής
 ├── requirements.txt          # Dependencies
 ├── README.md                # Οδηγίες χρήσης
 ├── data/                    # Αποθηκευμένα σχόλια
@@ -104,9 +104,11 @@ Project_App_Updated_Final/
 - **difflib**: Σύγκριση ομοιότητας λέξεων
 
 ## Συγγραφείς
+- Ξάφης Δημήτριος
 - Χατζούλης Ιωάννης
 - Θεοφυλάκτου Βασίλης  
-- Ξάφης Δημήτριος
+  
 
 ## Έκδοση
+
 v1.0 - Αρχική έκδοση 
